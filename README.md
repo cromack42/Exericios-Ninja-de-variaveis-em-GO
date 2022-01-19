@@ -10,5 +10,6 @@ Exercicios 1: Use var para declarar três variáveis. Elas devem ter package-lev
 - Na função main:
 	1. Demosntre os valores de cada identificador
 	2. O compilador atribuiu valores para essas variáveis. Como esses valores se chamam?
+
 Solução: https://play.golang.org/p/MpET9pq-TaB
 
